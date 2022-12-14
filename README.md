@@ -1,4 +1,4 @@
-# C-Programs
+# C-Program Theory
 
 What is C?
 
