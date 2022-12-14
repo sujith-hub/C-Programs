@@ -21,7 +21,7 @@ The main difference between C and C++ is that C++ support classes and objects, w
 New Lines
 
 New lines are also called "escape sequences".
-These are three types \n,\t,\\,\"
+These are three types \n, \t, \\, \" .
 
 \n  Prints the statements in newline
 \t	Creates a horizontal tab	
