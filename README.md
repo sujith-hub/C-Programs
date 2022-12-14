@@ -33,7 +33,7 @@ letus consider below program
 
 int main() {
   printf("Hello World!\nI am learning C.\nAnd it is awesome!");
-  printf("Hello World\n I am learning C.\tAnd it\\is awesome! They call me \"Sujith\".
+  printf("Hello World\n I am learning C.\tAnd it\\is awesome! They call me \"Sujith\".");
   return 0;
 }
 
