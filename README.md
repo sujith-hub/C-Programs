@@ -17,3 +17,28 @@ Difference between C and C++ ?
 
 C++ was developed as an extension of C, and both languages have almost the same syntax
 The main difference between C and C++ is that C++ support classes and objects, while C does not
+
+New Lines
+
+New lines are also called "escape sequences".
+These are three types \n,\t,\\,\"
+
+\n  Prints the statements in newline
+\t	Creates a horizontal tab	
+\\	Inserts a backslash character (\)	
+\"	Inserts a double quote character
+
+letus consider below program
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!\nI am learning C.\nAnd it is awesome!");
+  printf("Hello World\n I am learning C.\tAnd it\\is awesome! They call me \"Sujith\".
+  return 0;
+}
+
+Output:
+Hello World!
+I am learning C.
+And it is awesome!Hello World
+I am learning C.	And it\is awesome! They call me "Sujith".
